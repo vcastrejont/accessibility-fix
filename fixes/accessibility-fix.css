@@ -1,0 +1,65 @@
+a.secondary, .recent-location{
+  color: #197393 !important; 
+}
+.button.secondary {
+    color: #fff! important; 
+}
+
+
+.content-section-footer a{
+  color: #ca3f48;
+} 
+.footer-base, .footer-base a{
+  color: #AAA;
+}
+.footer-container h6{
+  color: #FFF;
+}
+.recently-viewed{
+  color:#777;
+}
+
+.location-picker-link .location-picker-metro.light {
+    color: #777;
+}
+
+body.home .hero-name {
+  background-color: #333; 
+}
+
+/* Footer is set to background-color: #333 */
+
+.footer-base{
+  color:#aaa !important;
+}
+
+
+#footer .footer-base, #footer .global-footer-system-info{
+  color:#aaa;
+}
+
+.image-banner-block {
+  background-color: #333;
+}
+
+/* 
+.button.secondary{
+  background-color: #297089;
+  color:#fff 
+}
+*/
+
+/* Light gray color */
+.diners-choice-subtitle, .rest-row-meta, .rest-row-rating .star-rating-text,  .star-rating-text, .rest-row-quote blockquote cite, #diners-choice .diners-choice-subtitle, .rest-row-quote blockquote time, .picker__weekday, .recently-viewed,  .tag-button-count, .color-light, .review-rating-flipped .review-stars-results, #location-menu .menu-list-selectors .menu-list-link, .color-light, .pagination-spacer   {
+  color: #666 !important;
+}
+
+/* Red color */
+.reserve-now{
+  color: #D02936 !important;
+}
+
+/* Blue color */
+.content-block-tab-link, .page-nav-link,.content-block-map-info a, .content-block-body .js-readmore-show, .content-block-body .js-readmore-hide, .color-secondary, .oc-pagination-link{
+  color: #38758B !important;
+}
