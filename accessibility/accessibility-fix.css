@@ -1,9 +1,0 @@
-// Accessibility fix
-
-// issue home-100
-.locations-group a, .content-block-link-lists a{ 
-  color: #000 !important;
-}
-body.content-block {
-  background: yellow ; 
-}
